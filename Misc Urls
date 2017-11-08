@@ -113,3 +113,15 @@ http://allenai.org/semantic-scholar/
 arxiv.org
 semanticscholar.og
 http://www.iclr.cc/doku.php?id=iclr2015:main
+
+
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/https://ronxin.github.io/wevi/
+https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/
+https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/
+https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/
+https://www.analyticsvidhya.com/blog/2017/07/word-representations-text-classification-using-fasttext-nlp-facebook/
+https://rare-technologies.com/fasttext-and-gensim-word-embeddings/
+https://nlp.stanford.edu/projects/glove/
+https://nlp.stanford.edu/projects/glove/
+5. Important Libraries for NLP (python)
+Scikit-learn: Machine learning in PythonNatural Language Toolkit (NLTK): The complete toolkit for all NLP techniques.Pattern – A web mining module for the with tools for NLP and machine learning.TextBlob – Easy to use nl p tools API, built on top of NLTK and Pattern.spaCy – Industrial strength N LP with Python and Cython.Gensim – Topic Modelling for HumansStanford Core NLP – NLP services and packages by Stanford NLP Group.
