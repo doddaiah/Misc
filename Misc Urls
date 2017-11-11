@@ -30,7 +30,7 @@ straight through estimator
 https://r2rt.com/binary-stochastic-neurons-in-tensorflow.html
 
 gumbel softmax from nlp stanford
-
+gumbel and straight through estimator or other models instead of reinforcement methods for non differentiable points.
 
 https://en.wikipedia.org/wiki/Q-learning
 
