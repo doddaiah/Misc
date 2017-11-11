@@ -26,6 +26,8 @@ model-free reinforcement learning
 reinforcement learning indepth
 http://www.cse.unsw.edu.au/~cs9417ml/RL1/index.html
 
+straight through estimator
+https://r2rt.com/binary-stochastic-neurons-in-tensorflow.html
 
 https://en.wikipedia.org/wiki/Q-learning
 
