@@ -31,6 +31,8 @@ https://r2rt.com/binary-stochastic-neurons-in-tensorflow.html
 
 gumbel softmax from nlp stanford
 gumbel and straight through estimator or other models instead of reinforcement methods for non differentiable points.
+http://blog.evjang.com/2016/11/tutorial-categorical-variational.html
+https://casmls.github.io/general/2017/02/01/GumbelSoftmax.html
 
 https://en.wikipedia.org/wiki/Q-learning
 
