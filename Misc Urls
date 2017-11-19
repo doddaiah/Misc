@@ -252,6 +252,11 @@ sparse sampling
 monte carlo tree search
 model free Q learning or model based
 bellman equation/update
+Deep queue networks/ atari
+https://github.com/dennybritz
+
+
+
 
 
 THE END
