@@ -261,6 +261,14 @@ https://nips.cc/Conferences/2016/Schedule
 
 Deep Reinforcement Learning Workshop, NIPS 2016
 https://sites.google.com/site/deeprlnips2016/
+RL papers
+Atari Games:
+Q-Learning V Mnih, Kavukcuoglu, D silver "Playing atari with deep reinforcement learning".
+Policy gradients:
+J schulman, S levine, P.Moritz, M.I. Jordan, P.Abbeel. "Trust region policy optimization"
+
+V.Mnih, A.Graves,
+"Asynchronous methods for deep reinforcement learning"
 
 
 
