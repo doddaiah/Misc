@@ -270,7 +270,8 @@ J schulman, S levine, P.Moritz, M.I. Jordan, P.Abbeel. "Trust region policy opti
 V.Mnih, A.Graves,
 "Asynchronous methods for deep reinforcement learning"
 
-
+"Mastering the game of GO with deep neural networks and tree search"
+supervised learning + imitation learning + policy gradients+value functions+monte carlo tree search
 
 
 THE END
