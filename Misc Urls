@@ -273,5 +273,6 @@ V.Mnih, A.Graves,
 "Mastering the game of GO with deep neural networks and tree search"
 supervised learning + imitation learning + policy gradients+value functions+monte carlo tree search
 
+inverse reinforcement learning
 
 THE END
