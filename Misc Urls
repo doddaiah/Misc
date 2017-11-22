@@ -293,6 +293,19 @@ dyna-q reinforcement learning
 https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/node29.html
 https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/rl-survey.html
 
+university of edin...
+
+http://www.inf.ed.ac.uk/teaching/courses/rl/
+http://www.inf.ed.ac.uk/teaching/courses/rl/slides/
+
+READINGS:
+
+R. Sutton and A. Barto, Reinforcement Learning, MIT Press, 1998. (Required)
+This book has an associated web page, including supplementary material.
+S. Thrun, W. Burgard, D. Fox, Probabilistic Robotics, MIT Press, 2006. This book is available in the library and in the CDT RAS library.
+D.P. Bertsekas, Dynamic Programming and Optimal Control, 2 Vols., Athena Scientific Press, 2005. Book website
+W.B. Powell, Optimal Learning, Wiley, 2012. Book website
+V. Krishnamurthy, Partially Observed Markov Decision Processes, Cambridge University Press, 2016. This book is available online, through the library.
 
 
 inverse reinforcement learning
