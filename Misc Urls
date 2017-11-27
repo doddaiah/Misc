@@ -320,6 +320,12 @@ Alluviate, Cray, Google, IBM, Intel, Nvidia.
 Deep Instinct, Ersatz Labs, Fluid AI, MathWorks, Peltarion, Saffron Technology, Sentient Technologies
 Basis Technology, Coveo, Expert System, Indico, Knime, Lexalytics, Linguamatics, Mindbreeze, Sinequa, Stratifyd, Synapsify.
 
+Here there are some collections of standard and state-of-the-art environments:
+    OpenAI Universe
+    OpenAI Gym
+    Project Malmo - Microsoft Research
+    DeepMind Lab
+
 
 
 THE END
