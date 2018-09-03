@@ -632,4 +632,7 @@ http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Pre
 https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/README.md
 
 
+different gradient descents adam for back propagation
+https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f
+
 THE END
