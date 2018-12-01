@@ -1,12 +1,17 @@
 
+Math
 https://brenocon.com/blog/2012/03/cosine-similarity-pearson-correlation-and-ols-coefficients/
-good links for other sites
+
+deep learning math
+https://medium.com/deep-math-machine-learning-ai
 
 
+Good links 
 https://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning?utm_content=bufferbed70&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
 Berkeley classes online
 http://rail.eecs.berkeley.edu/deeprlcourse/
+
 Machine learning
 http://www.eecs189.org/syllabus/#materials
 http://www.eecs189.org/resources/
@@ -20,11 +25,14 @@ http://www.jeremydjacksonphd.com/category/cryptocurrency/
 
 https://www.palantir.com/solutions/intelligence/
 
-RL (reinforcement learning)
+RL /Reinforcement Learning
+Good links 
 https://web.cs.wpi.edu/~ruiz/KDDRG/resources.html
 https://www.ml.cmu.edu/academics/ml-phd.html
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/assignments/
 http://themlbook.com/wiki/doku.php
+
+Artificial Intelligence
 Reinforcement Learning: An Introduction, Sutton and Barto
 https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x
 https://www.cs.cmu.edu/~avrim/ML14/lect0326.pdf
@@ -65,18 +73,14 @@ https://brenocon.com/blog/2013/10/tanh-is-a-rescaled-logistic-sigmoid-function/
 
 
 
-
-
-
-
-Papers
+Papers/Open AI/Reinforcement learning/RL
 https://arxiv.org/pdf/1502.05767.pdf
 https://blog.openai.com/
 https://spinningup.openai.com/en/latest/spinningup/keypapers.html
 https://spinningup.openai.com/en/latest/spinningup/spinningup.html
 
 
-anova
+anova/statistics/regression
 https://math.arizona.edu/~piegorsch/571A/STAT571A.Ch09.pdf
 https://www.ida.liu.se/~732A35/info/courseinfo.en.shtml
 https://www.ida.liu.se/~732A35/info/courseinfo.en.shtml
@@ -93,7 +97,7 @@ https://www.analyticsvidhya.com/blog/2018/01/anova-analysis-of-variance/
 https://www.analyticsvidhya.com/blog/2018/11/reinforcement-learning-introduction-monte-carlo-learning-openai-gym/
 
 
-
+Kaggle/Tensorflow links
 https://datascienceplus.com/category/advanced-modeling
 https://www.edvancer.in/ab-testing-made-simple-part-2/
 http://rail.eecs.berkeley.edu/deeprlcourse/
@@ -143,10 +147,16 @@ https://www.kaggle.com/sukeshpabba/linear-regression-with-boston-housing-data
 https://www.cybercontrols.org/machinelearning
 
 
-Python learning
+Python learning/Youtube/Tensofr flow youtube
 https://www.youtube.com/user/sentdex/playlists
 https://www.youtube.com/user/dataschool
 https://www.youtube.com/user/PyDataTV
+
+SciKit Machine learning videos
+
+EricMj1 Github Video series Bayes 
+https://github.com/ericmjl
+
 https://www.youtube.com/user/EnthoughtMedia
 https://www.youtube.com/watch?v=89ye2hfsAsk
 https://www.youtube.com/watch?v=5NMxiOGL39M
