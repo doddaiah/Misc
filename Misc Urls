@@ -1,597 +1,34 @@
-GitHub topics to search ...
-https://github.com/topics/
 
-Deep Learning
-https://www.cs.tufts.edu/comp/150BDL/2018f/schedule.html
-https://www.youtube.com/watch?v=JN6H4rQvwgY&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
-http://introtodeeplearning.com/2018/index.html
-http://cs.brown.edu/courses/csci1470/
-https://cs.brown.edu/courses/info/csci2470/
-http://cs230.stanford.edu/
-https://github.com/Kulbear/deep-learning-coursera
-https://github.com/afshinea/stanford-cs-230-deep-learning
-https://github.com/mbadry1/Top-Deep-Learning
-https://github.com/rvarun7777/Deep_Learning
-https://github.com/the-deep-learners/study-group
+Artificial Intelligence: 
 
-
-
-
-Math
-https://brenocon.com/blog/2012/03/cosine-similarity-pearson-correlation-and-ols-coefficients/
-
-deep learning math
-https://medium.com/deep-math-machine-learning-ai
-
-
-Good links 
-https://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning?utm_content=bufferbed70&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
-
-Berkeley classes online
-http://rail.eecs.berkeley.edu/deeprlcourse/
-
-Machine learning
-Jacob WPI Machine learning class
-https://users.wpi.edu/~jrwhitehill/CS453X_2018_Lectures/index.html
-http://www.eecs189.org/syllabus/#materials
-http://www.eecs189.org/resources/
-http://ai.berkeley.edu/home.html
-http://ai.berkeley.edu/course_schedule.html
 http://aima.cs.berkeley.edu/
-http://ai.berkeley.edu/lecture_videos.html
-http://ai.berkeley.edu/lecture_videos.html
-https://www.reddit.com/r/berkeleydeeprlcourse/
-http://www.jeremydjacksonphd.com/category/cryptocurrency/
-
-https://www.palantir.com/solutions/intelligence/
-
-RL /Reinforcement Learning
-Good links 
-https://web.cs.wpi.edu/~ruiz/KDDRG/resources.html
-https://www.ml.cmu.edu/academics/ml-phd.html
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/assignments/
-http://themlbook.com/wiki/doku.php
-https://github.com/doddaiah/CS7643-DeepLearning
-https://github.com/doddaiah/pytorch_RL
-https://github.com/doddaiah/Deep-Learning-TensorFlow
-https://github.com/doddaiah/BigRL
-https://icml.cc/2016/tutorials/deep_rl_tutorial.pdf
-https://github.com/doddaiah/DeepLearning.ai-Summary
-https://github.com/doddaiah/machine-learning-for-software-engineers
-https://medium.com/machine-learning-world/learning-path-for-machine-learning-engineer-a7d5dc9de4a4
-https://github.com/doddaiah/Tensorflow-101
-https://github.com/aymericdamien/TensorFlow-Examples/
-https://github.com/tflearn/tflearn/blob/master/tutorials/intro/quickstart.md
-https://github.com/doddaiah/tensorflow_tutorials
-https://github.com/dennybritz/reinforcement-learning
-
-
-Artificial Intelligence
+https://artint.info/slides/
+https://artint.info/2e/slides/
+https://www.cs.ubc.ca/~carenini/TEACHING/CPSC322-09/index.html
 Reinforcement Learning: An Introduction, Sutton and Barto
 https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x
 https://www.cs.cmu.edu/~avrim/ML14/lect0326.pdf
 http://www.cs.toronto.edu/~darius/papers/POMDP_survey.pdf
-Reinforcement Learning | Udacity
-CS 294: Deep Reinforcement Learning, Fall 2017
-Deep Reinforcement Learning: Pong from Pixels, Andrej Karpathy
-https://github.com/parasdahal/deeprl
 
-Numpy Scipy MLbook
-
-http://aima.cs.berkeley.edu/ai.html#learning
-http://aima.cs.berkeley.edu/ai.html#best
-http://old.nbu.bg/cogs/events/2000/Readings/Petrov/rltutorial.pdf
-http://orange.biolab.si/
-http://pages.cs.wisc.edu/~dyer/cs540/demos.html
-http://www.cs.cmu.edu/~tom/10701_sp11/recitations.shtml
-https://experiments.withgoogle.com/collection/ai
-http://research.cs.wisc.edu/math-prog/mpml.html
-http://aima.cs.berkeley.edu/books.html
-https://books.google.com/books?uid=111815788291054011027&source=gbs_lp_bookshelf_list
-https://books.google.com/books?uid=8640673873589796416&as_coll=1009
-
-
-http://scipy.github.io/old-wiki/pages/Tentative_NumPy_Tutorial9061.html?highlight=%28%28EricsBroadcastingDoc%29%29
-https://docs.scipy.org/doc/numpy/reference/arrays.indexing.html
-https://docs.scipy.org/doc/numpy/user/quickstart.html
-https://howtothink.readthedocs.io/en/latest/PvL_06.html
-http://themlbook.com/wiki/doku.php
-better links in the page
-https://theclevermachine.wordpress.com/tag/tanh-function/
-https://www.williambot.com/en/news-neural-networks.html
-https://quickkt.com/
-https://www.coursera.org/lecture/neural-networks-deep-learning/why-do-you-need-non-linear-activation-functions-OASKH
-http://cs231n.github.io/linear-classify/
-https://brenocon.com/blog/2013/10/tanh-is-a-rescaled-logistic-sigmoid-function/
-
-
-
-
-Papers/Open AI/Reinforcement learning/RL
-https://arxiv.org/pdf/1502.05767.pdf
-https://blog.openai.com/
-https://spinningup.openai.com/en/latest/spinningup/keypapers.html
-https://spinningup.openai.com/en/latest/spinningup/spinningup.html
-
-
-anova/statistics/regression
-https://math.arizona.edu/~piegorsch/571A/STAT571A.Ch09.pdf
-https://www.ida.liu.se/~732A35/info/courseinfo.en.shtml
-https://www.ida.liu.se/~732A35/info/courseinfo.en.shtml
-https://www.analyticsvidhya.com/blog/2018/01/anova-analysis-of-variance/
-https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
-http://onlinestatbook.com/2/transformations/contents.html
-https://developers.google.com/machine-learning/crash-course/ml-intro
-http://r-statistics.co/Statistical-Tests-in-R.html
-https://www.kaggle.com/macostrans/multiple-linear-regression-model-applied
-multiple regression statistics
-https://www.youtube.com/playlist?list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-
-https://turnthewheelsandbox.wordpress.com/
-https://www.analyticsvidhya.com/blog/2018/01/anova-analysis-of-variance/
-https://www.analyticsvidhya.com/blog/2018/11/reinforcement-learning-introduction-monte-carlo-learning-openai-gym/
-
-
-Kaggle/Tensorflow links
-https://datascienceplus.com/category/advanced-modeling
-https://www.edvancer.in/ab-testing-made-simple-part-2/
-http://rail.eecs.berkeley.edu/deeprlcourse/
-https://www.kaggle.com/learn/overview
-https://brilliant.org/courses/#computer-science-advanced
-https://brilliant.org/wiki/feedforward-neural-networks/#formal-definition
-https://brilliant.org/wiki/backpropagation/
-https://github.com/topics/linear-regression
-https://github.com/BinRoot/TensorFlow-Book
-http://www.tensorflowbook.com/
-http://www.tensorflowbook.com/
-https://github.com/nfmcclure/tensorflow_cookbook
-https://github.com/zotroneneis/machine_learning_basics
-https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners
-https://www.kaggle.com/sinaasappel/tutorial-multiple-regression
-https://www.kaggle.com/aakashns/pytorch-basics-linear-regression-from-scratch
-https://www.kaggle.com/fizzbuzz/beginner-s-guide-to-capsule-networks
-https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners
-https://www.kaggle.com/ashishpatel26/zero-to-hero-in-pytorch-ml-dl-rl
-https://www.kaggle.com/ashishpatel26/zero-to-hero-in-pytorch-ml-dl-rl
-https://www.kaggle.com/mjbahmani/the-data-scientist-s-toolbox-tutorial
-https://www.kaggle.com/fizzbuzz/beginner-s-guide-to-capsule-networks
-https://www.kaggle.com/shivamb/beginners-guide-to-text-generation-using-lstms
-https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners
-https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
-https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners
-https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers
-https://www.kaggle.com/kanncaa1/recurrent-neural-network-with-pytorch
-https://www.kaggle.com/pouryaayria/convolutional-neural-networks-tutorial-tensorflow
-https://www.kaggle.com/ashishpatel26/zero-to-hero-chainer-tutorial-dl
-https://www.kaggle.com/seohyeondeok/yolov3-rsna-starting-notebook
-https://www.kaggle.com/kanav0183/playing-with-memory-efficient-tensorf-100-acc
-https://www.kaggle.com/shivamb/a-very-comprehensive-tutorial-nn-cnn
-https://www.kaggle.com/adityaecdrid/mnist-with-keras-for-beginners-99457
-https://www.kaggle.com/learn/overview
-https://www.kaggle.com/adityaecdrid/mnist-with-keras-for-beginners-99457
-
-https://www.kaggle.com/shivamb/a-very-comprehensive-tutorial-nn-cnn
-https://www.kaggle.com/pouryaayria/convolutional-neural-networks-tutorial-tensorflow
-
-
-
-
-
-https://www.kaggle.com/kailex/r-eda-for-gstore-glm-keras-xgb
-https://www.kaggle.com/sukeshpabba/linear-regression-with-boston-housing-data
-https://www.cybercontrols.org/machinelearning
-
-
-Python learning/Youtube/Tensofr flow youtube
-https://www.youtube.com/user/sentdex/playlists
-https://www.youtube.com/user/dataschool
-https://www.youtube.com/user/PyDataTV
-
-SciKit Machine learning videos
-
-EricMj1 Github Video series Bayes 
-https://github.com/ericmjl
-
-https://www.youtube.com/user/EnthoughtMedia
-https://www.youtube.com/watch?v=89ye2hfsAsk
-https://www.youtube.com/watch?v=5NMxiOGL39M
-
-https://github.com/topics/linear-regression
-https://github.com/topics/multiple-regression
-https://github.com/stedy/Machine-Learning-with-R-datasets
-https://www.kaggle.com/sudhirnl7/linear-regrssion-tutorial/data
-https://www.kaggle.com/mirichoi0218/insurance
-https://www.kaggle.com/mirichoi0218/insurance/kernels
-https://www.kaggle.com/grosvenpaul/regression-eda-and-statistics-tutorial
-
-https://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html#introduction
-http://rafalab.github.io/pages/754/
-http://rafalab.github.io/
-https://simplystatistics.org/
-https://simplystatistics.org/courses/
-http://www.statistics4u.info/fundstat_eng/cc_varsel_mallowscp.html
-http://www.statistics4u.info/fundstat_eng/index_stat4u_a.html
-http://www.statistics4u.info/fundstat_eng/wrapnt3EE178_pca.html
-http://www.stat.purdue.edu/~ghobbs/STAT_512/Lecture_Notes/Regression/Topic_15.pdf
-https://www.stat.cmu.edu/~cshalizi/mreg/
-
-http://neuralnetworksanddeeplearning.com/chap2.html
-https://blog.openai.com/spinning-up-in-deep-rl/
-https://www.aicommons.com/
-http://www.stat.purdue.edu/~ghobbs/STAT_512/Lecture_Notes/Regression/
-http://web.thu.edu.tw/wichuang/www/Financial%20Econometrics/Lectures/CHAPTER%203.pdf
-http://www.jerrydallal.com/LHSP/LHSP.HTM
-http://www.jerrydallal.com/LHSP/dof.htm
-http://www.rondotsch.nl/degrees-of-freedom/
-https://www.analyticsvidhya.com/blog/2018/05/19-data-science-tools-for-people-dont-understand-coding/
-
-L1
-L2
-https://github.com/eriklindernoren?tab=following
-https://github.com/fregu856/papers
-https://github.com/junyanz?tab=following
-https://github.com/eriklindernoren/PyTorch-YOLOv3
-
-http://ai.stanford.edu/courses/
-stanford deep learning homepagehttp://deeplearning.stanford.edu/
-stanford  papershttp://ufldl.stanford.edu/?papers
-stanford wiki deeplearning pages and tutorials
-http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings
-stanford UFLDL tutorialshttp://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
-andrews Ng tutorialshttp://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
-yann lecun webpage and mnist
-http://yann.lecun.com/exdb/mnist/
-
-
-convex optimization
-https://web.stanford.edu/~boyd/cvxbook/
-https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
-https://web.stanford.edu/class/ee364a/courseinfo.html
-https://www.youtube.com/playlist?list=PL3940DD956CDF0622
-https://www.youtube.com/watch?v=7QmGj1_i3MU
-
-
-Deep Learning A-Z™: Hands-On Artificial Neural Networks
-
-https://github.com/akshaychandra21/Udemy_Deep_Learning_A_Z/blob/master/Deep%20Learning%20Cheatsheet.png
-
-
-Additional Reading:
-
-Yann LeCun et al., 1998, Efficient BackProp
-http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
-
-By Xavier Glorot et al., 2011, Deep sparse rectifier neural networks
-http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf
-
-CrossValidated, 2015, A list of cost functions used in neural networks, alongside applications
-http://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications
-
-Andrew Trask, 2015, A Neural Network in 13 lines of Python (Part 2 – Gradient Descent)
-https://iamtrask.github.io/2015/07/27/python-network-part2/
-
-Michael Nielsen, 2015, Neural Networks and Deep Learning
-http://neuralnetworksanddeeplearning.com/chap2.html
-
-
-Yann LeCun et al., 1998, Gradient-Based Learning Applied to Document Recognition
-http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
-
-Jianxin Wu, 2017, Introduction to Convolutional Neural Networks
-http://cs.nju.edu.cn/wujx/paper/CNN.pdf
-
-C.-C. Jay Kuo, 2016, Understanding Convolutional Neural Networks with A Mathematical Model
-https://arxiv.org/pdf/1609.04112.pdf
-
-Kaiming He et al., 2015, Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
-https://arxiv.org/pdf/1502.01852.pdf
-
-Dominik Scherer et al., 2010, Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition
-http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf
-
-Adit Deshpande, 2016, The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)
-https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
-
-Rob DiPietro, 2016, A Friendly Introduction to Cross-Entropy Loss
-https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
-
-Peter Roelants, 2016, How to implement a neural network Intermezzo 2
-http://peterroelants.github.io/posts/neural_network_implementation_intermezzo02/
-
-Alex Krizhevsky et al., 2012, ImageNet Classification with Deep Convolutional Neural Networks
-
-https://www.nvidia.cn/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf
-
-Karen Simonyan et al., 2015, Very Deep Convolutional Networks for Large-Scale Image Recognition
-https://arxiv.org/pdf/1409.1556.pdf
-
-Oscar Sharp & Benjamin, 2016, Sunspring
-https://arstechnica.com/the-multiverse/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/
-
-Sepp (Josef) Hochreiter, 1991, Untersuchungen zu dynamischen neuronalen Netzen
-http://people.idsia.ch/~juergen/SeppHochreiter1991ThesisAdvisorSchmidhuber.pdf
-
-Yoshua Bengio, 1994, Learning Long-Term Dependencies with Gradient Descent is Difficult
-http://www-dsi.ing.unifi.it/~paolo/ps/tnn-94-gradient.pdf
-
-Razvan Pascanu, 2013, On the difficulty of training recurrent neural networks
-http://www.jmlr.org/proceedings/papers/v28/pascanu13.pdf
-
-Sepp Hochreiter & Jurgen Schmidhuber, 1997, Long Short-Term Memory
-http://www.bioinf.jku.at/publications/older/2604.pdf
-
-Christopher Olah, 2015, Understanding LSTM Networks
-http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-
-Shi Yan, 2016, Understanding LSTM and its diagrams
-https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714
-
-Andrej Karpathy, 2015, The Unreasonable Effectiveness of Recurrent Neural Networks
-http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-
-Andrej Karpathy, 2015, Visualizing and Understanding Recurrent Networks
-https://arxiv.org/pdf/1506.02078.pdf
-
-Klaus Greff, 2015, LSTM: A Search Space Odyssey
-https://arxiv.org/pdf/1503.04069.pdf
-
-Xavier Glorot, 2011, Deep sparse rectifier neural networks
-http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf
-
-Tuevo Kohonen, 1990, The Self-Organizing Map
-http://sci2s.ugr.es/keel/pdf/algorithm/articulo/1990-Kohonen-PIEEE.pdf
-
-
-
-Mat Buckland, 2004?, Kohonen's Self Organizing Feature Maps
-http://www.ai-junkie.com/ann/som/som1.html
-
-Nadieh Bremer, 2003, SOM – Creating hexagonal heatmaps with D3.js
-https://www.visualcinnamon.com/2013/07/self-organizing-maps-creating-hexagonal.html
-
-Yann LeCun, 2006, A Tutorial on Energy-Based Learning
-http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf
-
-Jaco Van Dormael, 2009, Mr. Nobody
-http://www.imdb.com/title/tt0485947/
-
-Geoffrey Hinton, 2006, A fast learning algorithm for deep belief nets
-https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf
-
-Oliver Woodford, 2012?, Notes on Contrastive Divergence
-http://www.robots.ox.ac.uk/~ojw/files/NotesOnCD.pdf
-
-Yoshua Bengio, 2006, Greedy Layer-Wise Training of Deep Networks
-http://www.iro.umontreal.ca/~lisa/pointeurs/BengioNips2006All.pdf
-
-Geoffrey Hinton, 1995, The wake-sleep algorithm for unsupervised neural networks
-http://www.gatsby.ucl.ac.uk/~dayan/papers/hdfn95.pdf
-
-Ruslan Salakhutdinov, 2009?, Deep Boltzmann Machines
-http://www.utstat.toronto.edu/~rsalakhu/papers/dbm.pdf
-
-Malte Skarupke, 2016, Neural Networks Are Impressively Good At Compression
-https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/
-
-Francois Chollet, 2016, Building Autoencoders in Keras
-https://blog.keras.io/building-autoencoders-in-keras.html
-
-Chris McCormick, 2014, Deep Learning Tutorial – Sparse Autoencoder
-http://mccormickml.com/2014/05/30/deep-learning-tutorial-sparse-autoencoder/
-
-Eric Wilkinson, 2014, Deep Learning: Sparse Autoencoders
-http://www.ericlwilkinson.com/blog/2014/11/19/deep-learning-sparse-autoencoders
-
-Alireza Makhzani, 2014, k-Sparse Autoencoders
-https://arxiv.org/pdf/1312.5663.pdf
-
-Pascal Vincent, 2008, Extracting and Composing Robust Features with Denoising Autoencoders
-http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf
-
-Salah Rifai, 2011, Contractive Auto-Encoders: Explicit Invariance During Feature Extraction
-http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Rifai_455.pdf
-
-Pascal Vincent, 2010, Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion
-http://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf
-
-Geoffrey Hinton, 2006, Reducing the Dimensionality of Data with Neural Networks
-https://www.cs.toronto.edu/~hinton/science.pdf
-
-
-
-cross entropy
-https://visualstudiomagazine.com/articles/2014/04/01/neural-network-cross-entropy-error.aspx
-
-allenai
-https://github.com/allenai
-
-Neural turing machine
-NTM
-https://deepmind.com/blog/differentiable-neural-computers/
-
-bayes
-http://yudkowsky.net/rational/bayes
-
-workshop on machine transaltion or called as WMT
-http://www.statmt.org/wmt17/
-
-Association for Computational Linguistics
-http://acl2017.org/
-
-reinforcement learning CMU course
-http://www.cs.cmu.edu/~ebrun/15889e/schedule.html
-
-reinforcement learning or straight thru estimator
-
-statistical machine learning https://github.com/allenai
-Moses
-http://www.statmt.org/moses/
-
-machine translation conferences WMT
-
-http://www.statmt.org/wmt16/
-
-http://forum.stanford.edu/events/2017plenary.php
-
-https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/ 
-
-hinton
-http://www.cs.toronto.edu/~hinton/
-
-Le Cun
-http://yann.lecun.com/
-
-Bengio
-http://www.iro.umontreal.ca/~bengioy/yoshua_en/research.html
-
-navdeep jaitly
-http://www.cs.toronto.edu/~ndjaitly
-
-
-https://stp.lingfil.uu.se/~nivre/
-
-https://arxiv.org/archive/cs
-
-http://people.idsia.ch/~juergen/
-
-http://deeplearning.net/tutorial/lstm.html
-
-http://www.statmt.org/wmt16/
-
-http://introtodeeplearning.com/schedule.html
-MIT S191 Schedule
-
-http://www.statmt.org/wmt06/proceedings/
-
-https://www.youtube.com/watch?v=IgSuFYamZas
-
-model-free reinforcement learning
-
-reinforcement learning indepth
-http://www.cse.unsw.edu.au/~cs9417ml/RL1/index.html
-
-straight through estimator
-https://r2rt.com/binary-stochastic-neurons-in-tensorflow.html
-
-gumbel softmax from nlp stanford
-gumbel and straight through estimator or other models instead of reinforcement methods for non differentiable points.
-http://blog.evjang.com/2016/11/tutorial-categorical-variational.html
-https://casmls.github.io/general/2017/02/01/GumbelSoftmax.html
-
-https://en.wikipedia.org/wiki/Q-learning
-
-Basics
-
-ML Crash Course https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/
-
-Cross entropy http://colah.github.io/posts/2015-09-Visual-Information/
-
-Python tutorial: http://www.learnpython.org/
-
-Python/Numpy tutorial: http://cs231n.github.io/python-numpy-tutorial/
-
-Reference for math/probability: chapter 2, 3 and 4 of http://www.deeplearningbook.org/
-
-Tensorflow Crash Course: http://nicklocascio.com/tensorflow-crash-course
-
-
-Deep Learning, foundations
-
-Intro-level deep learning book: http://neuralnetworksanddeeplearning.com/
-
-Advanced deep learning book: http://www.deeplearningbook.org/
-
-Lots of links to topics: http://yerevann.com/a-guide-to-deep-learning/
-
-Deep Learning/TensorFlow Udacity Course: https://www.udacity.com/course/deep-learning--ud730
-
-Yann LeCun’s ‘Efficient Backpropagation’ (goes through a lot of basics on how/why to train networks a certain way, including some theory behind it): yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
-
-
-Deep Learning, advanced/state-of-the-art: 
-
-Guide to Papers: https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
-
-Curating arXiv: arxiv-sanity.com
-
-Summaries of Papers: http://www.shortscience.org/
-
-Papers from Conferences: 
-NIPS: https://nips.cc/Conferences/2016/AcceptedPapers
-ICLR: https://openreview.net/group?id=ICLR.cc/2017/conference
-ICML: http://icml.cc/2016/?page_id=1649
-KDD: http://www.kdd.org/kdd2016/program/accepted-papers
-
-Blogs etc: 
-
-Deep Learning Newsletter: http://www.wildml.com/newsletter/
-
-ML subreddit: https://www.reddit.com/r/MachineLearning/
-
-Andrej Karpathy’s blog: http://karpathy.github.io/
-
-Chris Olah’s blog: http://colah.github.io/
-
-
-More on specific topics: 
-
-RNNs / Sequential Modeling: 
-Attention & Memory: http://distill.pub/2016/augmented-rnns/
-Stanford CS 224 slides: http://cs224d.stanford.edu/syllabus.html
-LSTMs, vanishing gradient: http://harinisuresh.com/2016/10/09/lstms/
-Vanishing Gradient: http://neuralnetworksanddeeplearning.com/chap5.html#the_vanishing_gradient_problem
-
-
-
-CNNs / Vision:
-
-
-Multimodal Problems: 
-
-
-Generative Models: 
-
-
-Reinforcement Learning: 
-
-
-http://www.iro.umontreal.ca/~bengioy/talks/
-
-
-
-
-CS231N winter 2017 invited talk by Jeff Dean time 1:04:35
-1)
-research.google.com/archive/unsupervised_icml2012.html
-
-2)research.google.com/archive/large_deep_networks_nips2012.hmtl
-3)arxiv.org/abs/1301.3781
-4)arxiv.org/abs/1405.4053
-5)arxiv.org/abs/1409.3215
-6)arxiv.org/abs/1411/4555
-7)tensorflow.org/whitepaper2015.pdf
-research.google.com/people/jeff
-research.google.com/pubs/machineintelligence.html
-
-
-
-http://allenai.org/semantic-scholar/
-arxiv.org
-semanticscholar.og
-http://www.iclr.cc/doku.php?id=iclr2015:main
-
-
-https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/https://ronxin.github.io/wevi/
-https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/
-https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/
-https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/
-https://www.analyticsvidhya.com/blog/2017/07/word-representations-text-classification-using-fasttext-nlp-facebook/
-https://rare-technologies.com/fasttext-and-gensim-word-embeddings/
-https://nlp.stanford.edu/projects/glove/
-https://nlp.stanford.edu/projects/glove/
-5. Important Libraries for NLP (python)
-Scikit-learn: Machine learning in PythonNatural Language Toolkit (NLTK): The complete toolkit for all NLP techniques.Pattern – A web mining module for the with tools for NLP and machine learning.TextBlob – Easy to use nl p tools API, built on top of NLTK and Pattern.spaCy – Industrial strength N LP with Python and Cython.Gensim – Topic Modelling for HumansStanford Core NLP – NLP services and packages by Stanford NLP Group.
-
-reinforcement learning
+GitHub topics to search ...
+https://github.com/topics/
+
+Reinforcement learning:
+https://github.com/astorfi/TensorFlow-World-Resources
+https://github.com/tensorflow/models/tree/master/research/deeplab
+https://skymind.ai/wiki/deep-reinforcement-learning
+https://www.youtube.com/watch?v=qPE4CPQY7mc&t=0s&list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba&index=5
+https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
+https://medium.com/deep-math-machine-learning-ai
+http://mccormickml.com/2014/03/04/gradient-descent-derivation/
+https://stats.stackexchange.com/questions/70553/what-does-normalization-mean-and-how-to-verify-that-a-sample-or-a-distribution?answertab=active#tab-top
+http://www.chioka.in/differences-between-the-l1-norm-and-the-l2-norm-least-absolute-deviations-and-least-squares/
+https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+https://www.coursera.org/learn/machine-learning/home/welcome
+http://course.fast.ai/index.html
+https://www.deeplearning.ai/courses/
+https://github.com/ilkarman/DeepLearningFrameworks
 https://edusalsa.com/course?c=CS%20229
 https://edusalsa.com/course?c=CS%20332
 https://edusalsa.com/search?i=ebrun
@@ -743,12 +180,534 @@ http://people.idsia.ch/%7Ejuergen/naturedeepmind.html
 http://rll.berkeley.edu/deeprlworkshop/
 https://github.com/songrotek/deep-reinforcement-learning-papers-1
 https://github.com/junhyukoh/deep-reinforcement-learning-papers
-
-
 https://stats385.github.io/
 https://berkeley-deep-learning.github.io/cs294-131-s17/
-
 http://deeplearning.net/tutorial/rnnslu.html
+
+Math
+https://brenocon.com/blog/2012/03/cosine-similarity-pearson-correlation-and-ols-coefficients/
+
+Good links 
+https://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-machine-learning?utm_content=bufferbed70&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
+Berkeley classes online
+http://rail.eecs.berkeley.edu/deeprlcourse/
+
+Machine learning
+Jacob WPI Machine learning class
+https://users.wpi.edu/~jrwhitehill/CS453X_2018_Lectures/index.html
+http://www.eecs189.org/syllabus/#materials
+http://www.eecs189.org/resources/
+http://ai.berkeley.edu/home.html
+http://ai.berkeley.edu/course_schedule.html
+http://aima.cs.berkeley.edu/
+http://ai.berkeley.edu/lecture_videos.html
+http://ai.berkeley.edu/lecture_videos.html
+https://www.reddit.com/r/berkeleydeeprlcourse/
+http://www.jeremydjacksonphd.com/category/cryptocurrency/
+
+https://www.palantir.com/solutions/intelligence/
+
+RL /Reinforcement Learning
+
+Deep Learning, foundations
+http://deeplearning.net/tutorial/lstm.html
+http://introtodeeplearning.com/schedule.html
+MIT S191 Schedule
+reinforcement learning indepth
+http://www.cse.unsw.edu.au/~cs9417ml/RL1/index.html
+Intro-level deep learning book: http://neuralnetworksanddeeplearning.com/
+Advanced deep learning book: http://www.deeplearningbook.org/
+Lots of links to topics: http://yerevann.com/a-guide-to-deep-learning/
+Deep Learning/TensorFlow Udacity Course: https://www.udacity.com/course/deep-learning--ud730
+Yann LeCun’s ‘Efficient Backpropagation’ (goes through a lot of basics on how/why to train networks a certain way, including some theory behind it): yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
+Deep Learning, advanced/state-of-the-art: 
+Guide to Papers: https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+Curating arXiv: arxiv-sanity.com
+Summaries of Papers: http://www.shortscience.org/
+Papers from Conferences: 
+NIPS: https://nips.cc/Conferences/2016/AcceptedPapers
+ICLR: https://openreview.net/group?id=ICLR.cc/2017/conference
+ICML: http://icml.cc/2016/?page_id=1649
+KDD: http://www.kdd.org/kdd2016/program/accepted-papers
+Blogs etc: 
+Deep Learning Newsletter: http://www.wildml.com/newsletter/
+ML subreddit: https://www.reddit.com/r/MachineLearning/
+Andrej Karpathy’s blog: http://karpathy.github.io/
+Chris Olah’s blog: http://colah.github.io/
+
+Reinforcement Learning | Udacity
+CS 294: Deep Reinforcement Learning, Fall 2017
+Deep Reinforcement Learning: Pong from Pixels, Andrej Karpathy
+https://github.com/parasdahal/deeprl
+http://neuralnetworksanddeeplearning.com/chap2.html
+https://blog.openai.com/spinning-up-in-deep-rl/
+https://www.aicommons.com/
+Papers/Open AI/Reinforcement learning/RL
+https://arxiv.org/pdf/1502.05767.pdf
+https://blog.openai.com/
+https://spinningup.openai.com/en/latest/spinningup/keypapers.html
+https://spinningup.openai.com/en/latest/spinningup/spinningup.html
+Good links 
+https://web.cs.wpi.edu/~ruiz/KDDRG/resources.html
+https://www.ml.cmu.edu/academics/ml-phd.html
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/assignments/
+http://themlbook.com/wiki/doku.php
+https://github.com/doddaiah/CS7643-DeepLearning
+https://github.com/doddaiah/pytorch_RL
+https://github.com/doddaiah/Deep-Learning-TensorFlow
+https://github.com/doddaiah/BigRL
+https://icml.cc/2016/tutorials/deep_rl_tutorial.pdf
+https://github.com/doddaiah/DeepLearning.ai-Summary
+https://github.com/doddaiah/machine-learning-for-software-engineers
+https://medium.com/machine-learning-world/learning-path-for-machine-learning-engineer-a7d5dc9de4a4
+https://github.com/doddaiah/Tensorflow-101
+https://github.com/aymericdamien/TensorFlow-Examples/
+https://github.com/tflearn/tflearn/blob/master/tutorials/intro/quickstart.md
+https://github.com/doddaiah/tensorflow_tutorials
+https://github.com/dennybritz/reinforcement-learning
+Deep Learning A-Z™: Hands-On Artificial Neural Networks
+https://github.com/akshaychandra21/Udemy_Deep_Learning_A_Z/blob/master/Deep%20Learning%20Cheatsheet.png
+reinforcement learning CMU course
+http://www.cs.cmu.edu/~ebrun/15889e/schedule.html
+reinforcement learning or straight thru estimator
+Additional Reading:
+
+Yann LeCun et al., 1998, Efficient BackProp
+http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
+
+By Xavier Glorot et al., 2011, Deep sparse rectifier neural networks
+http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf
+
+CrossValidated, 2015, A list of cost functions used in neural networks, alongside applications
+http://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications
+
+Andrew Trask, 2015, A Neural Network in 13 lines of Python (Part 2 – Gradient Descent)
+https://iamtrask.github.io/2015/07/27/python-network-part2/
+
+Michael Nielsen, 2015, Neural Networks and Deep Learning
+http://neuralnetworksanddeeplearning.com/chap2.html
+
+
+Yann LeCun et al., 1998, Gradient-Based Learning Applied to Document Recognition
+http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
+
+Jianxin Wu, 2017, Introduction to Convolutional Neural Networks
+http://cs.nju.edu.cn/wujx/paper/CNN.pdf
+
+C.-C. Jay Kuo, 2016, Understanding Convolutional Neural Networks with A Mathematical Model
+https://arxiv.org/pdf/1609.04112.pdf
+
+Kaiming He et al., 2015, Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
+https://arxiv.org/pdf/1502.01852.pdf
+
+Dominik Scherer et al., 2010, Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition
+http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf
+
+Adit Deshpande, 2016, The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)
+https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+
+Rob DiPietro, 2016, A Friendly Introduction to Cross-Entropy Loss
+https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
+
+Peter Roelants, 2016, How to implement a neural network Intermezzo 2
+http://peterroelants.github.io/posts/neural_network_implementation_intermezzo02/
+
+Alex Krizhevsky et al., 2012, ImageNet Classification with Deep Convolutional Neural Networks
+
+https://www.nvidia.cn/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf
+
+Karen Simonyan et al., 2015, Very Deep Convolutional Networks for Large-Scale Image Recognition
+https://arxiv.org/pdf/1409.1556.pdf
+
+Oscar Sharp & Benjamin, 2016, Sunspring
+https://arstechnica.com/the-multiverse/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/
+
+Sepp (Josef) Hochreiter, 1991, Untersuchungen zu dynamischen neuronalen Netzen
+http://people.idsia.ch/~juergen/SeppHochreiter1991ThesisAdvisorSchmidhuber.pdf
+
+Yoshua Bengio, 1994, Learning Long-Term Dependencies with Gradient Descent is Difficult
+http://www-dsi.ing.unifi.it/~paolo/ps/tnn-94-gradient.pdf
+
+Razvan Pascanu, 2013, On the difficulty of training recurrent neural networks
+http://www.jmlr.org/proceedings/papers/v28/pascanu13.pdf
+
+Sepp Hochreiter & Jurgen Schmidhuber, 1997, Long Short-Term Memory
+http://www.bioinf.jku.at/publications/older/2604.pdf
+
+Christopher Olah, 2015, Understanding LSTM Networks
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+Shi Yan, 2016, Understanding LSTM and its diagrams
+https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714
+
+Andrej Karpathy, 2015, The Unreasonable Effectiveness of Recurrent Neural Networks
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+Andrej Karpathy, 2015, Visualizing and Understanding Recurrent Networks
+https://arxiv.org/pdf/1506.02078.pdf
+
+Klaus Greff, 2015, LSTM: A Search Space Odyssey
+https://arxiv.org/pdf/1503.04069.pdf
+
+Xavier Glorot, 2011, Deep sparse rectifier neural networks
+http://jmlr.org/proceedings/papers/v15/glorot11a/glorot11a.pdf
+
+Tuevo Kohonen, 1990, The Self-Organizing Map
+http://sci2s.ugr.es/keel/pdf/algorithm/articulo/1990-Kohonen-PIEEE.pdf
+
+
+
+Mat Buckland, 2004?, Kohonen's Self Organizing Feature Maps
+http://www.ai-junkie.com/ann/som/som1.html
+
+Nadieh Bremer, 2003, SOM – Creating hexagonal heatmaps with D3.js
+https://www.visualcinnamon.com/2013/07/self-organizing-maps-creating-hexagonal.html
+
+Yann LeCun, 2006, A Tutorial on Energy-Based Learning
+http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf
+
+Jaco Van Dormael, 2009, Mr. Nobody
+http://www.imdb.com/title/tt0485947/
+
+Geoffrey Hinton, 2006, A fast learning algorithm for deep belief nets
+https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf
+
+Oliver Woodford, 2012?, Notes on Contrastive Divergence
+http://www.robots.ox.ac.uk/~ojw/files/NotesOnCD.pdf
+
+Yoshua Bengio, 2006, Greedy Layer-Wise Training of Deep Networks
+http://www.iro.umontreal.ca/~lisa/pointeurs/BengioNips2006All.pdf
+
+Geoffrey Hinton, 1995, The wake-sleep algorithm for unsupervised neural networks
+http://www.gatsby.ucl.ac.uk/~dayan/papers/hdfn95.pdf
+
+Ruslan Salakhutdinov, 2009?, Deep Boltzmann Machines
+http://www.utstat.toronto.edu/~rsalakhu/papers/dbm.pdf
+
+Malte Skarupke, 2016, Neural Networks Are Impressively Good At Compression
+https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/
+
+Francois Chollet, 2016, Building Autoencoders in Keras
+https://blog.keras.io/building-autoencoders-in-keras.html
+
+Chris McCormick, 2014, Deep Learning Tutorial – Sparse Autoencoder
+http://mccormickml.com/2014/05/30/deep-learning-tutorial-sparse-autoencoder/
+
+Eric Wilkinson, 2014, Deep Learning: Sparse Autoencoders
+http://www.ericlwilkinson.com/blog/2014/11/19/deep-learning-sparse-autoencoders
+
+Alireza Makhzani, 2014, k-Sparse Autoencoders
+https://arxiv.org/pdf/1312.5663.pdf
+
+Pascal Vincent, 2008, Extracting and Composing Robust Features with Denoising Autoencoders
+http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf
+
+Salah Rifai, 2011, Contractive Auto-Encoders: Explicit Invariance During Feature Extraction
+http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Rifai_455.pdf
+
+Pascal Vincent, 2010, Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion
+http://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf
+
+Geoffrey Hinton, 2006, Reducing the Dimensionality of Data with Neural Networks
+https://www.cs.toronto.edu/~hinton/science.pdf
+
+Deep Learning:
+deep learning math
+https://medium.com/deep-math-machine-learning-ai
+https://www.cs.tufts.edu/comp/150BDL/2018f/schedule.html
+https://www.youtube.com/watch?v=JN6H4rQvwgY&index=1&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+http://introtodeeplearning.com/2018/index.html
+http://cs.brown.edu/courses/csci1470/
+https://cs.brown.edu/courses/info/csci2470/
+http://cs230.stanford.edu/
+https://github.com/Kulbear/deep-learning-coursera
+https://github.com/afshinea/stanford-cs-230-deep-learning
+https://github.com/mbadry1/Top-Deep-Learning
+https://github.com/rvarun7777/Deep_Learning
+https://github.com/the-deep-learners/study-group
+CNNs / Vision:
+Multimodal Problems: 
+Generative Models: 
+Reinforcement Learning: 
+http://www.iro.umontreal.ca/~bengioy/talks/
+
+CS231N winter 2017 invited talk by Jeff Dean time 1:04:35
+1)
+research.google.com/archive/unsupervised_icml2012.html
+
+2)research.google.com/archive/large_deep_networks_nips2012.hmtl
+3)arxiv.org/abs/1301.3781
+4)arxiv.org/abs/1405.4053
+5)arxiv.org/abs/1409.3215
+6)arxiv.org/abs/1411/4555
+7)tensorflow.org/whitepaper2015.pdf
+research.google.com/people/jeff
+research.google.com/pubs/machineintelligence.html
+
+http://allenai.org/semantic-scholar/
+arxiv.org
+semanticscholar.og
+http://www.iclr.cc/doku.php?id=iclr2015:main
+
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/https://ronxin.github.io/wevi/
+https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/
+https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/
+https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/
+https://www.analyticsvidhya.com/blog/2017/07/word-representations-text-classification-using-fasttext-nlp-facebook/
+https://rare-technologies.com/fasttext-and-gensim-word-embeddings/
+https://nlp.stanford.edu/projects/glove/
+https://nlp.stanford.edu/projects/glove/
+5. Important Libraries for NLP (python)
+Scikit-learn: Machine learning in PythonNatural Language Toolkit (NLTK): The complete toolkit for all NLP techniques.Pattern – A web mining module for the with tools for NLP and machine learning.TextBlob – Easy to use nl p tools API, built on top of NLTK and Pattern.spaCy – Industrial strength N LP with Python and Cython.Gensim – Topic Modelling for HumansStanford Core NLP – NLP services and packages by Stanford NLP Group.
+
+
+
+
+Numpy Scipy MLbook:
+
+http://aima.cs.berkeley.edu/ai.html#learning
+http://aima.cs.berkeley.edu/ai.html#best
+http://old.nbu.bg/cogs/events/2000/Readings/Petrov/rltutorial.pdf
+http://orange.biolab.si/
+http://pages.cs.wisc.edu/~dyer/cs540/demos.html
+http://www.cs.cmu.edu/~tom/10701_sp11/recitations.shtml
+https://experiments.withgoogle.com/collection/ai
+http://research.cs.wisc.edu/math-prog/mpml.html
+http://aima.cs.berkeley.edu/books.html
+https://books.google.com/books?uid=111815788291054011027&source=gbs_lp_bookshelf_list
+https://books.google.com/books?uid=8640673873589796416&as_coll=1009
+
+
+http://scipy.github.io/old-wiki/pages/Tentative_NumPy_Tutorial9061.html?highlight=%28%28EricsBroadcastingDoc%29%29
+https://docs.scipy.org/doc/numpy/reference/arrays.indexing.html
+https://docs.scipy.org/doc/numpy/user/quickstart.html
+https://howtothink.readthedocs.io/en/latest/PvL_06.html
+http://themlbook.com/wiki/doku.php
+better links in the page
+https://theclevermachine.wordpress.com/tag/tanh-function/
+https://www.williambot.com/en/news-neural-networks.html
+https://quickkt.com/
+https://www.coursera.org/lecture/neural-networks-deep-learning/why-do-you-need-non-linear-activation-functions-OASKH
+http://cs231n.github.io/linear-classify/
+https://brenocon.com/blog/2013/10/tanh-is-a-rescaled-logistic-sigmoid-function/
+
+Statistics:
+anova/statistics/regression
+https://math.arizona.edu/~piegorsch/571A/STAT571A.Ch09.pdf
+https://www.ida.liu.se/~732A35/info/courseinfo.en.shtml
+https://www.ida.liu.se/~732A35/info/courseinfo.en.shtml
+https://www.analyticsvidhya.com/blog/2018/01/anova-analysis-of-variance/
+https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
+http://onlinestatbook.com/2/transformations/contents.html
+https://developers.google.com/machine-learning/crash-course/ml-intro
+http://r-statistics.co/Statistical-Tests-in-R.html
+https://www.kaggle.com/macostrans/multiple-linear-regression-model-applied
+multiple regression statistics
+https://www.youtube.com/playlist?list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-
+https://turnthewheelsandbox.wordpress.com/
+https://www.analyticsvidhya.com/blog/2018/01/anova-analysis-of-variance/
+https://www.analyticsvidhya.com/blog/2018/11/reinforcement-learning-introduction-monte-carlo-learning-openai-gym/
+
+
+TensorFlow:
+Kaggle/Tensorflow links
+https://datascienceplus.com/category/advanced-modeling
+https://www.edvancer.in/ab-testing-made-simple-part-2/
+http://rail.eecs.berkeley.edu/deeprlcourse/
+https://www.kaggle.com/learn/overview
+https://brilliant.org/courses/#computer-science-advanced
+https://brilliant.org/wiki/feedforward-neural-networks/#formal-definition
+https://brilliant.org/wiki/backpropagation/
+https://github.com/topics/linear-regression
+https://github.com/BinRoot/TensorFlow-Book
+http://www.tensorflowbook.com/
+http://www.tensorflowbook.com/
+https://github.com/nfmcclure/tensorflow_cookbook
+https://github.com/zotroneneis/machine_learning_basics
+https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners
+https://www.kaggle.com/sinaasappel/tutorial-multiple-regression
+https://www.kaggle.com/aakashns/pytorch-basics-linear-regression-from-scratch
+https://www.kaggle.com/fizzbuzz/beginner-s-guide-to-capsule-networks
+https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners
+https://www.kaggle.com/ashishpatel26/zero-to-hero-in-pytorch-ml-dl-rl
+https://www.kaggle.com/ashishpatel26/zero-to-hero-in-pytorch-ml-dl-rl
+https://www.kaggle.com/mjbahmani/the-data-scientist-s-toolbox-tutorial
+https://www.kaggle.com/fizzbuzz/beginner-s-guide-to-capsule-networks
+https://www.kaggle.com/shivamb/beginners-guide-to-text-generation-using-lstms
+https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners
+https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
+https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners
+https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers
+https://www.kaggle.com/kanncaa1/recurrent-neural-network-with-pytorch
+https://www.kaggle.com/pouryaayria/convolutional-neural-networks-tutorial-tensorflow
+https://www.kaggle.com/ashishpatel26/zero-to-hero-chainer-tutorial-dl
+https://www.kaggle.com/seohyeondeok/yolov3-rsna-starting-notebook
+https://www.kaggle.com/kanav0183/playing-with-memory-efficient-tensorf-100-acc
+https://www.kaggle.com/shivamb/a-very-comprehensive-tutorial-nn-cnn
+https://www.kaggle.com/adityaecdrid/mnist-with-keras-for-beginners-99457
+https://www.kaggle.com/learn/overview
+https://www.kaggle.com/adityaecdrid/mnist-with-keras-for-beginners-99457
+https://www.kaggle.com/shivamb/a-very-comprehensive-tutorial-nn-cnn
+https://www.kaggle.com/pouryaayria/convolutional-neural-networks-tutorial-tensorflow
+https://www.kaggle.com/kailex/r-eda-for-gstore-glm-keras-xgb
+https://www.kaggle.com/sukeshpabba/linear-regression-with-boston-housing-data
+https://www.cybercontrols.org/machinelearning
+
+
+Python learning: 
+
+/Youtube/Tensoflow youtube
+https://www.youtube.com/user/sentdex/playlists
+https://www.youtube.com/user/dataschool
+https://www.youtube.com/user/PyDataTV
+
+SciKit Machine learning videos:
+
+EricMj1 Github Video series Bayes and Tensorflow
+https://github.com/ericmjl
+https://www.youtube.com/user/EnthoughtMedia
+https://www.youtube.com/watch?v=89ye2hfsAsk
+https://www.youtube.com/watch?v=5NMxiOGL39M
+https://github.com/topics/linear-regression
+https://github.com/topics/multiple-regression
+https://github.com/stedy/Machine-Learning-with-R-datasets
+https://www.kaggle.com/sudhirnl7/linear-regrssion-tutorial/data
+https://www.kaggle.com/mirichoi0218/insurance
+https://www.kaggle.com/mirichoi0218/insurance/kernels
+https://www.kaggle.com/grosvenpaul/regression-eda-and-statistics-tutorial
+
+https://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html#introduction
+http://rafalab.github.io/pages/754/
+http://rafalab.github.io/
+https://simplystatistics.org/
+https://simplystatistics.org/courses/
+http://www.statistics4u.info/fundstat_eng/cc_varsel_mallowscp.html
+http://www.statistics4u.info/fundstat_eng/index_stat4u_a.html
+http://www.statistics4u.info/fundstat_eng/wrapnt3EE178_pca.html
+http://www.stat.purdue.edu/~ghobbs/STAT_512/Lecture_Notes/Regression/Topic_15.pdf
+https://www.stat.cmu.edu/~cshalizi/mreg/
+
+http://www.stat.purdue.edu/~ghobbs/STAT_512/Lecture_Notes/Regression/
+http://web.thu.edu.tw/wichuang/www/Financial%20Econometrics/Lectures/CHAPTER%203.pdf
+http://www.jerrydallal.com/LHSP/LHSP.HTM
+http://www.jerrydallal.com/LHSP/dof.htm
+http://www.rondotsch.nl/degrees-of-freedom/
+https://www.analyticsvidhya.com/blog/2018/05/19-data-science-tools-for-people-dont-understand-coding/
+L1/L2
+https://github.com/eriklindernoren?tab=following
+https://github.com/fregu856/papers
+https://github.com/junyanz?tab=following
+https://github.com/eriklindernoren/PyTorch-YOLOv3
+
+http://ai.stanford.edu/courses/
+stanford deep learning homepagehttp://deeplearning.stanford.edu/
+stanford  papershttp://ufldl.stanford.edu/?papers
+stanford wiki deeplearning pages and tutorials
+http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings
+stanford UFLDL tutorialshttp://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
+andrews Ng tutorialshttp://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
+yann lecun webpage and mnist
+http://yann.lecun.com/exdb/mnist/
+
+convex optimization
+https://web.stanford.edu/~boyd/cvxbook/
+https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+https://web.stanford.edu/class/ee364a/courseinfo.html
+https://www.youtube.com/playlist?list=PL3940DD956CDF0622
+https://www.youtube.com/watch?v=7QmGj1_i3MU
+
+cross entropy
+https://visualstudiomagazine.com/articles/2014/04/01/neural-network-cross-entropy-error.aspx
+
+allenai
+https://github.com/allenai
+
+Neural turing machine
+NTM
+https://deepmind.com/blog/differentiable-neural-computers/
+
+bayes
+http://yudkowsky.net/rational/bayes
+
+workshop on machine transaltion or called as WMT
+http://www.statmt.org/wmt17/
+
+Association for Computational Linguistics
+http://acl2017.org/
+
+statistical machine learning https://github.com/allenai
+Moses
+http://www.statmt.org/moses/
+
+machine translation conferences WMT
+
+http://www.statmt.org/wmt16/
+
+http://forum.stanford.edu/events/2017plenary.php
+
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/ 
+
+hinton
+http://www.cs.toronto.edu/~hinton/
+
+Le Cun
+http://yann.lecun.com/
+
+Bengio
+http://www.iro.umontreal.ca/~bengioy/yoshua_en/research.html
+
+navdeep jaitly
+http://www.cs.toronto.edu/~ndjaitly
+
+https://stp.lingfil.uu.se/~nivre/
+
+https://arxiv.org/archive/cs
+
+http://people.idsia.ch/~juergen/
+
+http://www.statmt.org/wmt16/
+
+
+http://www.statmt.org/wmt06/proceedings/
+
+https://www.youtube.com/watch?v=IgSuFYamZas
+
+model-free reinforcement learning
+
+
+straight through estimator
+https://r2rt.com/binary-stochastic-neurons-in-tensorflow.html
+
+gumbel softmax from nlp stanford
+gumbel and straight through estimator or other models instead of reinforcement methods for non differentiable points.
+http://blog.evjang.com/2016/11/tutorial-categorical-variational.html
+https://casmls.github.io/general/2017/02/01/GumbelSoftmax.html
+
+https://en.wikipedia.org/wiki/Q-learning
+
+Basics
+
+ML Crash Course https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/
+
+Cross entropy http://colah.github.io/posts/2015-09-Visual-Information/
+
+Python tutorial: http://www.learnpython.org/
+
+Python/Numpy tutorial: http://cs231n.github.io/python-numpy-tutorial/
+
+Reference for math/probability: chapter 2, 3 and 4 of http://www.deeplearningbook.org/
+
+Tensorflow Crash Course: http://nicklocascio.com/tensorflow-crash-course
+
+
+More on specific topics: 
+
+RNNs / Sequential Modeling: 
+Attention & Memory: http://distill.pub/2016/augmented-rnns/
+Stanford CS 224 slides: http://cs224d.stanford.edu/syllabus.html
+LSTMs, vanishing gradient: http://harinisuresh.com/2016/10/09/lstms/
+Vanishing Gradient: http://neuralnetworksanddeeplearning.com/chap5.html#the_vanishing_gradient_problem
 
 Books
 https://web.stanford.edu/~boyd/books.html
@@ -763,23 +722,6 @@ ShortScience.org?
 http://www.alexa.com/siteinfo/arxiv-sanity.com
 https://www.reddit.com/r/MachineLearning/?ref=readnext
 r/MachineLearning/
-
-
-
-Online courses
-(check https://katefvision.github.io/ )
-
-    Rich Sutton’s class: Reinforcement Learning for Artificial Intelligence, Fall 2016
-    http://incompleteideas.net/sutton/609%20dropbox/  
-    
-    John Schulman’s and Pieter Abeel’s class: Deep Reinforcement Learning, Fall 2015
-    Sergey Levine’s, Chelsea Finn’s and John Schulman’s class: Deep Reinforcement Learning, Spring 2017
-    Abdeslam Boularias’s class: Robot Learning Seminar
-    Pieter Abeel’s class: Advanced Robotics, Fall 2015
-    Emo Todorov’s class: Intelligent control through learning and optimization, Spring 2015
-    David Silver’s class: Reinforcement learning
-
-
 
 Subscribe to some of these blogs / communities to regularly read about the subject:
 
@@ -895,7 +837,8 @@ https://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes
 algebra
 http://courses.cs.tamu.edu/rgutier/cs790_w02/
 
-pytorch
+Pytorch:
+
 http://pytorch.org/tutorials/beginner/pytorch_with_examples.html
 https://community.clarifai.com/
 
@@ -921,9 +864,6 @@ https://www.youtube.com/watch?v=iuQgZDs-W7A
 spark deep dive
 https://www.youtube.com/watch?v=iuQgZDs-W7A
 
-
-https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
-
 https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=0ldsYP1mzjwl
 https://www.kaggle.com/poonaml/analyzing-3-million-github-repos-using-bigquery/code
 https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/
@@ -943,26 +883,18 @@ Cassandara, Elastic search, Goss
 https://www.youtube.com/user/victorlavrenko/videos
 Couchbase, Redis, Terracotta BigMemory Max, Amazon Memcache and Amazon DynamoDB, as well as Aerospike
 
-database engines
+Database engines:
 https://db-engines.com/en/ranking
-
-
 https://www.datanami.com/
 https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig
-
 https://turi.com/learn/coursera/
 http://predictionio.apache.org/system/anotherdatastore/
 h20.ai
 https://www.dominodatalab.com/solutions/open-data-science/
-
 https://azure.microsoft.com/en-us/blog/topics/datascience/
-
 https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/
-
 Cloudera vs. Hortonworks vs. MapR - Hadoop Distribution
-
 http://bair.berkeley.edu/blog/2018/05/30/bdd/
-
 http://bdd-data.berkeley.edu/
 https://pythonhosted.org/mrjob/
 https://sparkhub.databricks.com/presentations/
@@ -973,66 +905,29 @@ https://sparkhub.databricks.com/
 https://legacy.gitbook.com/@jaceklaskowski
 https://github.com/apache/incubator-superset
 http://tohyongcheng.github.io/data/2017/02/03/superset-the-open-source-tableau.html
-
 https://dive.media.mit.edu/
-
 https://old.reddit.com/r/MachineLearning/comments/8tr11j/r_openai_five/
-
 https://www.reddit.com/r/MachineLearning/search?sort=new&restrict_sr=on&q=flair%3AResearch
-
 https://old.reddit.com/r/MachineLearning/comments/8rue4t/d_what_machine_learning_hypothesis_are_you/
-
 https://old.reddit.com/r/MachineLearning/comments/8omn0u/d_what_is_your_setup_for_ml/
-
 https://www.reddit.com/r/MachineLearning/comments/8u6wo4/d_what_are_practical_use_cases_for_reinforcement/
-
 http://prof.ict.ac.cn/
-
 http://parsec.cs.princeton.edu
-
 http://www.diva-portal.org/smash/get/diva2:1059537/FULLTEXT01.pdf
 
-normalization
-standardized
-centered
+normalization / standardized / centered
 https://stats.stackexchange.com/questions/70553/what-does-normalization-mean-and-how-to-verify-that-a-sample-or-a-distribution
 
 https://thiagoserra-com.cdn.ampproject.org/c/s/thiagoserra.com/2018/08/27/winter-2018-2019-schools-on-algorithms-big-data-data-science-discrete-math-optimization-and-other-relevant-orms-topics/amp/
 
 p value t stat 
 https://www.youtube.com/watch?v=0Pd3dc1GcHc
-
 http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction
 https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/README.md
-
-
-different gradient descents adam for back propagation
-https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f
-
-https://github.com/astorfi/TensorFlow-World-Resources
-
-https://github.com/tensorflow/models/tree/master/research/deeplab
-https://skymind.ai/wiki/deep-reinforcement-learning
-https://www.youtube.com/watch?v=qPE4CPQY7mc&t=0s&list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba&index=5
-https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
-https://medium.com/deep-math-machine-learning-ai
-http://mccormickml.com/2014/03/04/gradient-descent-derivation/
-https://stats.stackexchange.com/questions/70553/what-does-normalization-mean-and-how-to-verify-that-a-sample-or-a-distribution?answertab=active#tab-top
-http://www.chioka.in/differences-between-the-l1-norm-and-the-l2-norm-least-absolute-deviations-and-least-squares/
-https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
-https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
-https://www.coursera.org/learn/machine-learning/home/welcome
-
-http://course.fast.ai/index.html
-
-https://www.deeplearning.ai/courses/
-
 https://towardsdatascience.com/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153
-
 https://towardsdatascience.com/
 
-
-statistics regression videos
+statistics regression videos:
 https://www.youtube.com/watch?v=kAow4rjQK1c
 https://www.youtube.com/results?search_query=kutner+linear+algebra
 https://www.youtube.com/channel/UCVglHZCCRhUW3MyhuY-bRxQ
@@ -1063,17 +958,14 @@ https://onlinecourses.science.psu.edu/stat501/
 http://cs231n.github.io/python-numpy-tutorial/
 http://www.scipy-lectures.org/intro/numpy/numpy.html
 
-statistics books
+statistics books:
 
 http://www.unc.edu/~nielsen/soci709/m3/m3.htm
-
-
 http://www.statsoft.com/textbook/support-vector-machines
 http://www.statsoft.com/Textbook/Neural-Networks
 http://www.statsoft.com/Textbook/Elementary-Statistics-Concepts#What%20is%20%22statistical%20significance%22%20(p-level)
 https://www.cs.uic.edu/~wilkinson/DataAnalysisCourse/Session%2010%20(Time%20Series).pdf
 https://www.cs.uic.edu/~wilkinson/SYSTAT/systat.html
-
 https://www.ics.uci.edu/~sternh/courses/210/slides1new.pdf
 http://www.cs.toronto.edu/~hinton/absps/DynamicRouting.pdf
 http://www.cs.toronto.edu/~hinton/
@@ -1089,7 +981,24 @@ https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries
 https://www.kaggle.com/questions-and-answers/67677#latest-399015
 https://pytorch.org/tutorials/
 
-https://github.com/ilkarman/DeepLearningFrameworks
+Online courses
+(check https://katefvision.github.io/ )
+
+    Rich Sutton’s class: Reinforcement Learning for Artificial Intelligence, Fall 2016
+    http://incompleteideas.net/sutton/609%20dropbox/  
+    
+    John Schulman’s and Pieter Abeel’s class: Deep Reinforcement Learning, Fall 2015
+    Sergey Levine’s, Chelsea Finn’s and John Schulman’s class: Deep Reinforcement Learning, Spring 2017
+    Abdeslam Boularias’s class: Robot Learning Seminar
+    Pieter Abeel’s class: Advanced Robotics, Fall 2015
+    Emo Todorov’s class: Intelligent control through learning and optimization, Spring 2015
+    David Silver’s class: Reinforcement learning
+
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+
+different gradient descents adam for back propagation
+https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f
+
 
 https://www.slideshare.net/pfi/introduction-to-chainer-11-may2018-96768990
 https://dynet.readthedocs.io/en/latest/cpp_basic_tutorial.html
