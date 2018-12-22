@@ -12,6 +12,8 @@ https://github.com/yunjey/pytorch-tutorial
 https://github.com/doddaiah/pytorch-for-numpy-users
 
 AI/ML links:
+derivation of Mean square error MSE derivatives
+https://stats.stackexchange.com/questions/303446/deriving-linear-regression-gradient-with-mse
 https://github.com/fastai/numerical-linear-algebra
 https://github.com/doddaiah/fastai
 https://skymind.ai/wiki/
