@@ -34,7 +34,7 @@ http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implement
 
 AI/ML links:
 
-RL
+RL:
 more courses and videos
 http://hunkim.github.io/ml/
 https://www.youtube.com/watch?v=dZ4vw6v3LcA&list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG&index=1
@@ -48,7 +48,7 @@ https://github.com/hunkim/DeepLearningZeroToAll
 PR and more CNN/RNN 
 https://www.youtube.com/watch?v=auKdde7Anr8&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS
 
-ML
+ML:
 https://www.youtube.com/watch?v=odMGK7pwTqY&index=47&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 
 to compuate derivatives
@@ -129,6 +129,9 @@ https://www.cs.tufts.edu/comp/150BDL/2018f/schedule.html
 
 Reinforcement learning:
 all ML and RL courses and guides
+http://www.wildml.com/2016/10/learning-reinforcement-learning/
+course on RL
+https://github.com/dennybritz/reinforcement-learning/blob/master/DP/Value%20Iteration%20Solution.ipynb
 https://github.com/ml4a
 http://ml4a.github.io/index/
 http://ml4a.github.io/guides/
