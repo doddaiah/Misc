@@ -24,7 +24,6 @@ https://cs.uwaterloo.ca/~ppoupart/ICML-07-tutorial-Bayes-RL.html
 http://speech.ee.ntu.edu.tw/~tlkagk/talk.html
 http://speech.ee.ntu.edu.tw/~tlkagk/courses.html
 http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html
-
 https://sites.google.com/view/deep-rl-bootcamp/lectures
 https://spinningup.openai.com/en/latest/
 https://github.com/openai/baselines
@@ -32,8 +31,9 @@ http://gym.openai.com/
 https://github.com/higgsfield/RL-Adventure
 https://github.com/higgsfield/RL-Adventure-2
 aurelien geron a short introduction to entropy KL youtube google
-
-
+https://cs.stanford.edu/people/karpathy/reinforcejs/gridworld_td.html
+https://artint.info/html/ArtInt_262.html
+https://cs.brown.edu/research/ai/pomdp/tutorial/pomdp-vi-example.html
 Textbook: Reinforcement Learning: An Introduction 
 http://incompleteideas.net/sutton/book/the-book.html
 Lectures of David Silver
