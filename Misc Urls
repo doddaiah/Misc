@@ -20,6 +20,10 @@ https://www.youtube.com/watch?v=Bcuj2fTH4_4&list=RDCMUC4UJ26WkceqONNF5S26OiVw&in
 AI Prism DRL:
 https://www.youtube.com/watch?v=fevMOp5TDQs&list=RDCMUCTgM-VlXKuylPrZ_YGAJHOw&start_radio=1&t=2767
 
+Visualize RL:
+https://github.com/greydanus/visualize_atari
+https://nbviewer.jupyter.org/github/greydanus/visualize_atari/blob/master/jacobian-vs-perturbation.ipynb
+
 https://github.com/awjuliani/DeepRL-Agents
 https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df
 DQN:
