@@ -1909,4 +1909,11 @@ https://deeplizard.com/learn/video/k4jY9L8H89U
 
 
 
+Saliency Maps: 
+https://github.com/hs2k/pytorch-smoothgrad
+https://github.com/pair-code/saliency/blob/master/Examples.ipynb
+https://github.com/pair-code/saliency
+https://pair-code.github.io/saliency/
+https://arxiv.org/pdf/1706.03825.pdf
+
 THE END
