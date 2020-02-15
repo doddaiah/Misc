@@ -1,6 +1,42 @@
 Research tools:
+find all related research tools
 http://connectedresearchers.com/online-tools-for-researchers/
-https://my.paperscape.org/
+
+this visualizes the papers and pointers with high quality references
+https://my.paperscape.org/   
+https://medium.com/@aarontay/top-new-tools-for-researchers-worth-looking-at-9d7d494761b0
+
+How to read paper:
+https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
+
+8. REFERENCES
+[1] S. Peyton Jones, \Research Skills,"
+http://research.microsoft.com/ simonpj/Papers/giving-
+a-talk/giving-a-talk.htm.
+[2] T. Roscoe, \Writing Reviews for Systems
+Conferences,"
+http://people.inf.ethz.ch/troscoe/pubs/review-
+writing.pdf.
+[3] H. Schulzrinne, \Writing Technical Articles,"
+http://www.cs.columbia.edu/ hgs/etc/writing-
+style.html.
+[4] G.M. Whitesides, \Whitesides' Group: Writing a
+Paper,"
+http://www.che.iitm.ac.in/misc/dd/writepaper.pdf.
+[5] ACM SIGCOMM Computer Communication Review
+Online, http://www.sigcomm.org/ccr/drupal/.
+
+
+RELATED WORK
+If you are reading a paper to do a review, you should also
+read Timothy Roscoe's paper on \Writing reviews for sys-
+tems conferences" [2]. If you're planning to write a technical
+paper, you should refer both to Henning Schulzrinne's com-
+prehensive web site [3] and George Whitesides's excellent
+overview of the process [4]. Finally, Simon Peyton Jones
+has a website that covers the entire spectrum of research
+skills [1].
+
 
 Mathematics for Machine Learning full Course || Linear Algebra || Part-1
 https://www.youtube.com/watch?v=T3TpdPmTLso
