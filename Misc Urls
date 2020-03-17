@@ -1989,4 +1989,10 @@ https://www.simplypsychology.org/z-score.html
 Different types of kernels
 http://crsouza.com/2010/03/17/kernel-functions-for-machine-learning-applications/
 
+VSCODE
+check if you can access terminal most of the time terminal cannot be typed into, which is the source of the problem
+But I simply deleted ~/.config/Code/User/settings.json,
+and also ~/.vscode/
+and if needed reinstall anaconda3
+
 THE END
