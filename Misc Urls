@@ -2061,4 +2061,21 @@ But I simply deleted ~/.config/Code/User/settings.json,
 and also ~/.vscode/
 and if needed reinstall anaconda3
 
+control->shift->p and search for "sync" or jupter server 
+remote jupter server while using VSCODE
+https://github.com/Microsoft/vscode-python/issues/3785
+
+Hi, sorry I didn't have time.
+
+I just tested and it works. I did the following:
+
+ssh -L 8887:localhost:8888 remote
+(on remote) jupyter notebook
+I copied the url http://localhost:8888/?token={long hexa string} and replaced 8888 by 8887
+Python: Specify Jupyter server URI > Type in the URI for the Jupyter server
+I pasted the url
+Just ran a cell and it worked (I called multiprocessing.cpu_count() to be sure)
+I don't have the Don Jayamanne extension anymore.
+
+
 THE END
