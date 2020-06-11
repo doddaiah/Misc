@@ -2078,4 +2078,15 @@ Just ran a cell and it worked (I called multiprocessing.cpu_count() to be sure)
 I don't have the Don Jayamanne extension anymore.
 
 
+FASTAI
+https://github.com/davidhamann/fastai/blob/master/tutorials/linalg_pytorch.ipynb
+
+Jupyter extensions
+https://github.com/topics/jupyterlab-extension
+
+
+
+https://github.com/markusschanta/awesome-jupyter
+
+
 THE END
